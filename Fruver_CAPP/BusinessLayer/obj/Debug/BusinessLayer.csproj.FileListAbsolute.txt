@@ -1,0 +1,10 @@
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\Fruver_CAPP\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\Fruver_CAPP\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\Fruver_CAPP\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\Fruver_CAPP\BusinessLayer\bin\Debug\Entities.dll
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\Fruver_CAPP\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\Fruver_CAPP\BusinessLayer\bin\Debug\Entities.pdb
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\Fruver_CAPP\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\Fruver_CAPP\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\Fruver_CAPP\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\Fruver_CAPP\BusinessLayer\bin\Debug\MySql.Data.dll
